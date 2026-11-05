@@ -1,0 +1,8 @@
+title: Home and Kitchen India
+description: Number-first buying guides for kitchen appliances and home essentials in India.
+url: "https://avijitgoel-gif.github.io"
+baseurl: "/home-kitchen-india"
+theme: minima
+plugins: [jekyll-sitemap, jekyll-seo-tag, jekyll-feed]
+permalink: /:title/
+header_pages: [about.md, disclosure.md]
